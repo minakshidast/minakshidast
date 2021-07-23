@@ -1,8 +1,5 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Mangeshbk.Mangeshbk) -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mangeshbk&label=Profile%20views&color=0e75b6&style=flat" alt="MangeshLandge" /> </p> -->
-
-<a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images.app.goo.gl/7femACeTbsUVTbAo6" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Minakshi Das</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
