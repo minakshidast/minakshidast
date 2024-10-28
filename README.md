@@ -16,12 +16,13 @@
 ## 🙋‍♂️ About Me
 
 🌱 **I’m currently learning :** Full Stack Web Development
+ ❤️ I write blogs for: https://cryptodiger.com/
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
 💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
 
-🥅 **2021 Goals :** Learning new things and contribute more
+🥅 **2024 Goals :** Learning new things and contribute more
 
  📫 You can reach me at [chat](mailto:minakshid606@@gmail.com) 
 
