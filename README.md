@@ -16,7 +16,8 @@
 ## 🙋‍♂️ About Me
 
 🌱 **I’m currently learning :** Full Stack Web Development
- ❤️ I write blogs for: https://cryptodiger.com/
+ 
+ ❤️ I write blogs for: [CryptoDiger](https://cryptodiger.com/)
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
